@@ -1,0 +1,12 @@
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\WinFormUserInterface\bin\Debug\WinFormUserInterface.exe
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\WinFormUserInterface\bin\Debug\WinFormUserInterface.pdb
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\WinFormUserInterface\bin\Debug\ChekersLogic.dll
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\WinFormUserInterface\bin\Debug\ChekersLogic.pdb
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\WinFormUserInterface\obj\Debug\WinFormUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\WinFormUserInterface\obj\Debug\WinFormUserInterface.FormGameSettings.resources
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\WinFormUserInterface\obj\Debug\WinFormUserInterface.Properties.Resources.resources
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\WinFormUserInterface\obj\Debug\WinFormUserInterface.Resource.resources
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\WinFormUserInterface\obj\Debug\WinFormUserInterface.csproj.GenerateResource.Cache
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\WinFormUserInterface\obj\Debug\WinFormUserInterface.csproj.CoreCompileInputs.cache
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\WinFormUserInterface\obj\Debug\WinFormUserInterface.exe
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\WinFormUserInterface\obj\Debug\WinFormUserInterface.pdb

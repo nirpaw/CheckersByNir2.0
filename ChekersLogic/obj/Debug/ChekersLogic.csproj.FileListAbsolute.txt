@@ -1,0 +1,6 @@
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\ChekersLogic\bin\Debug\ChekersLogic.dll
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\ChekersLogic\bin\Debug\ChekersLogic.pdb
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\ChekersLogic\obj\Debug\ChekersLogic.csprojResolveAssemblyReference.cache
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\ChekersLogic\obj\Debug\ChekersLogic.csproj.CoreCompileInputs.cache
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\ChekersLogic\obj\Debug\ChekersLogic.dll
+C:\Users\nir30\Desktop\B18 Ex05 NirShmueli 304844095 AviyaAmsalem 208418178\ChekersLogic\obj\Debug\ChekersLogic.pdb
