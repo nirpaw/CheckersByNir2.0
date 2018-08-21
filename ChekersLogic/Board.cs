@@ -28,11 +28,6 @@ namespace Checkers
 
             set
             {
-                if (value != 6 && value != 8 && value != 10)
-                {
-                    throw new Exception("Board size can only be 6, 8 or 10! ");
-                }
-
                 m_BoardSize = value;
             }
         }
